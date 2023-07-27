@@ -1,4 +1,0 @@
-﻿year: 0year, 0.5year, (1year-1d), 1year, (1year+1d), 3.723year
-returned: was_returned, wasn’t_returned
-mastercard: MasterCard, OtherCard
-birthday: BD-1d, BD, BD+1d
