@@ -1,4 +1,1 @@
-﻿year: 0year, 0.5year, (1year-1d), 1year, (1year+1d)
-returned: was_returned, not_returned
-payment: MasterCard, OtherCard
-birthday: BD-1d, BD, BD+1d
+I'm a kitty
