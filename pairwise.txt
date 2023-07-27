@@ -1,0 +1,4 @@
+year: 0year, 0.5year, (1year-1d), 1year, (1year+1d), 3years
+returned: was_returned, wasn’t_returned
+payment: MasterCard, OtherCard
+birthday: BD-3month, BD-1d, BD, BD+1d, BD+67d
